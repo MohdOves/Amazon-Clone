@@ -10,18 +10,9 @@ This project is a static clone of the Amazon website, created using HTML and CSS
 - **Responsive Layout**: Designed to be responsive on different screen sizes, from desktop to mobile.
 - **Clean and Organized Code**: Follows best practices for HTML and CSS structure.
 
-## Screenshots
-
-![Amazon Clone Screenshot](link-to-screenshot)
-
-## Getting Started
 
 ### Prerequisites
 
 - Any web browser (Chrome, Firefox, Safari, etc.)
 
-### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/amazon-clone-static.git
